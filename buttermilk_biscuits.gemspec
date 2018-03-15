@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["JackMarx"]
   spec.email         = ["seriousfools@gmail.com"]
 
-  spec.summary       = "its a blowdryer"
-  spec.description   = "its a really really cool blowdryer"
+  spec.summary       = "terminal interface for classroom cookbook app"
+  spec.description   = "I have struggled long and hard to get access to my recipes from the terminal, this is the tool that granted my wishes."
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
