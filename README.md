@@ -4,7 +4,7 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
-## Installation
+### Installation
 
 Add this line to your application's Gemfile:
 
@@ -22,7 +22,20 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Here is the file to start up Cookbook Interface.
+
+```ruby
+require 'buttermilk_buiscuits'
+
+# this line starts your terminal interface.
+ButtermilkBiscuits::Frontend.new.run
+```
+
+Once you create this file run from terminal or use the excutable in the terminal.
+
+```
+ $ cook_me
+```
 
 ## Development
 
@@ -32,7 +45,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/JackMarx/buttermilk_biscuits.
+Bug reports and pull requests are welcome on GitHub at https://github.com/StraightOuttaConstant/buttermilk_biscuits.
 
 ## License
 

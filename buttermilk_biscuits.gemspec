@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "terminal interface for classroom cookbook app"
   spec.description   = "I have struggled long and hard to get access to my recipes from the terminal, this is the tool that granted my wishes."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/StraightOuttaConstant/buttermilk_biscuits"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
