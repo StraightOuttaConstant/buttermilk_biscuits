@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-
-require 'buttermilk_biscuits'
-
-ButtermilkBiscuits::Frontend.new.run
