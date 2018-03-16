@@ -25,7 +25,7 @@ Or install it yourself as:
 Here is the file to start up Cookbook Interface.
 
 ```ruby
-require 'buttermilk_buiscuits'
+require 'buttermilk_biscuits'
 
 # this line starts your terminal interface.
 ButtermilkBiscuits::Frontend.new.run
